@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: imc;
+    src: url(just_believe_4/Just\ Believe.otf);
+}
+
+h1{
+    font-family: imc;
+}
+
+body{
+    text-align: center;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+   background-size: 100%;
+   background-image: url(https://i.pinimg.com/564x/96/29/2c/96292c1b74a02d97da084006a2334189.jpg);
+   width: 100vw;
+   height: 100vh;
+   background-position: 0px -200px;
+   overflow: hidden;
+}
+
+.box{
+    margin-top: 15%;
+}
